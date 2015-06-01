@@ -1,0 +1,3 @@
+# Nobody is ever allowed anywhere.  Don't crawl me!
+User-agent: * Disallow: /
+

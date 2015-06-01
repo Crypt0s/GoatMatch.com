@@ -1,0 +1,12 @@
+<?php
+
+if (!isset($_POST['user']){
+    ?>
+<form action="index.php?p=signup.php" method="POST">
+    
+</form>
+<?php
+    die();
+}
+
+?>
